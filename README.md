@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm PhD(s) İbrahim Ali Metin
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/ibrahimalimetin)) 
-
-
 <!--
 **ibrahimalimetin/IbrahimAliMetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
