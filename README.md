@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm PhD(s) İbrahim Ali Metin
 
-💥 I'm talking about programming most of the time on this youtube channel https://www.youtube.com/@ibrahimalimetin/featured
-💬 Ask me about everything
+💥 I'm talking about programming most of the time on this youtube channel https://www.youtube.com/@ibrahimalimetin/featured                                                 
+💬 Ask me about everything                                                                                                                                                                         
 📫 How to reach me: ibrahimalimetin@gmail.com
+
+
 
 <!--
 **ibrahimalimetin/IbrahimAliMetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
